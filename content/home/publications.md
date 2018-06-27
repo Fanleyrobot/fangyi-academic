@@ -1,5 +1,5 @@
 +++
-# Recent Publications widget.
+# Selected Publications widget.
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
 active = true
@@ -32,6 +32,6 @@ list_format = 3
 #  6: Book chapter
 publication_type = "-1"
 
-# Exclude publications that are shown in the Selected Publications widget?
+# Exclude publications that are shown in the Recent Publications widget?
 exclude_selected = false
 +++

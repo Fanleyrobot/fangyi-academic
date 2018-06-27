@@ -6,10 +6,10 @@ date = 2018-06-27T00:00:00
 title = "Deep Reinforcement Learning for Robotic Motion Control"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "RL"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["reinforcement-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
