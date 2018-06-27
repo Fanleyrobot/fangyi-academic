@@ -1,6 +1,6 @@
 +++
 title = "Posts"
-date = 2017-01-01T00:00:00
+date = 2018-06-27T00:00:00
 math = false
 highlight = false
 
