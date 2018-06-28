@@ -4,7 +4,7 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 # baseurl = "http://www.fangyizhang.com/"
-baseurl = "/"
+baseurl = "https://modest-hopper-c04936.netlify.com/"
 
 
 # Title of your site
@@ -259,29 +259,39 @@ enableGitInfo = true
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#recent_publications"
+  name = "Preprints"
+  url = "#preprints"
   weight = 2
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
-
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
   weight = 4
 
+# [[menu.main]]
+#   name = "Talks"
+#   url = "#talks"
+#   weight = 5
+#
+# [[menu.main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 6
+
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 5
+  name = "Academic Service"
+  url = "#service"
+  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 8
 
 # Taxonomies.
 [taxonomies]

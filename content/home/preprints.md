@@ -6,7 +6,7 @@ widget = "publications_selected"
 active = true
 date = 2018-06-27T00:00:00
 
-title = "Recent Publications"
+title = "Preprints"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -29,4 +29,5 @@ list_format = 1
 #  5: Book
 #  6: Book chapter
 publication_type = "-1"
+
 +++
