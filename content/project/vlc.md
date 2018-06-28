@@ -29,7 +29,7 @@ caption = ""
 
 +++
 
-This is a project I did with [Prof. Ming Liu](http://www.ece.ust.hk/ece.php/profile/facultydetail/eelium) and [Mr. Kejie Liu](https://sites.google.com/site/kejieqiujack/) when I was a research assistant in the [RAM-LAB](https://ram-lab.com/research/#visible-light-communication-based-localization-and-path-planning) at [HKUST](http://www.ust.hk/).
+This is a project I worked on with [Prof. Ming Liu](http://www.ece.ust.hk/ece.php/profile/facultydetail/eelium) and [Mr. Kejie Liu](https://sites.google.com/site/kejieqiujack/) when I was a research assistant in the [RAM-LAB](https://ram-lab.com/research/#visible-light-communication-based-localization-and-path-planning) at [HKUST](http://www.ust.hk/).
 
 {{< youtube FGUM7P4xpGg >}}
 
