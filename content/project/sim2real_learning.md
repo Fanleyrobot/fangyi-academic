@@ -14,7 +14,7 @@ image_preview = "projects/phd.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["reinforcement-learning", "deep-learning"]`
-tags = ["transfer learning", "sim-to-real transfer", "deep learning", "reinforcement learning", "visuo-motor policy learning", "robotic reaching"]
+tags = ["transfer learning", "sim-to-real transfer", "deep learning", "reinforcement learning", "visuo-motor policy", "robotic reaching"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

@@ -16,5 +16,11 @@ weight = 50
 +++
 
 - Membership:  IEEE Robotics and Automation Society (Student Member)
-- Journal Reviewer: RA-L, T-ASE, TNNLS
-- Conference Reviewer: ICRA 2018, IROS 2018, ICRA 2017, IROS 2017
+- Journal Reviewer:
+  - RA-L
+  - T-ASE
+  - TNNLS
+- Conference Reviewer:
+  - ICRA: 2017, 2018
+  - IROS: 2017, 2018
+  - ICIA: 2016, 2018

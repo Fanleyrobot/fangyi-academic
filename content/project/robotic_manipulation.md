@@ -13,7 +13,7 @@ image_preview = "projects/apc2016.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["reinforcement-learning", "deep-learning"]`
-tags = ["robots for housework", "robotic manipulation", "robotic picking and placing", "robotic vision", "deep learning", "motion planning"]
+tags = ["robotic manipulation", "robotic picking and placing", "robotic vision", "deep learning", "motion planning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
