@@ -233,7 +233,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com.au/citations?user=5jFI06UAAAAJ&hl=en"
+    link = "https://scholar.google.com/citations?user=5jFI06UAAAAJ"
 
   [[params.social]]
     icon = "researchgate"
@@ -243,7 +243,18 @@ enableGitInfo = true
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/fangyi-zhang-a6108088/"
+    link = "https://www.linkedin.com/in/fangyi-zhang-a6108088"
+
+  [[params.social]]
+      icon = "github"
+      icon_pack = "fa"
+      link = "https://github.com/Fanleyrobot"
+
+  [[params.social]]
+      icon = "youtube"
+      icon_pack = "fa"
+      link = "https://www.youtube.com/channel/UCzqvJO9E3ibmUJfwABJ_Cig"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
