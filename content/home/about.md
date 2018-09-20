@@ -25,9 +25,9 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "PhD in Robotics and Artificial Intelligence"
+  course = "Ph.D. in Robotics and Artificial Intelligence"
   institution = "Australian Centre for Robotic Vision (ACRV), Queensland University of Technology (QUT)"
-  year = "2015-2018 expected"
+  year = "2015-2018"
 
 [[education.courses]]
   course = "B.Eng. in Automation"
@@ -38,6 +38,6 @@ weight = 5
 
 # Biography
 
-Mr. Fangyi Zhang is currently a PhD candidate in the Australian Centre for Robotic Vision (ACRV) at QUT node. His PhD topic is "Learning Real-world Visuo-motor Policies from Simulation". His current research interests include robotic vision, robotic manipulation, deep reinforcement learning and transfer learning.
+Dr Fangyi Zhang obtained his Ph.D. degree in the Australian Centre for Robotic Vision (ACRV) at QUT node, with his Ph.D. thesis entitled "Learning Real-world Visuo-motor Policies from Simulation", supervised by [Prof. Peter Corke](https://wiki.qut.edu.au/display/cyphy/Peter+Corke), [Dr Jürgen Leitner](http://juxi.net/), [Prof. Michael Milford](https://wiki.qut.edu.au/display/cyphy/Michael+Milford) and [Dr Ben Upcroft](https://www.roboticvision.org/rv_person/ben-upcroft/). His current research interests include robot learning, robotic vision, robotic manipulation, deep learning, reinforcement learning and transfer learning.
 
-He obtained his B.Eng. degree in Automation from East China Jiaotong University in 2010, followed with three years' work experience on R&D of locomotive control algorithms and electrical systems in the CRRC Zhuzhou Institute from 2010 to 2013. In 2014, he stayed for one year at the Hong Kong University of Science and Technology, as a research assistant, doing research on VLC-based indoor localization and 2D-laser based 3D sensing. Details regarding his research prior his PhD can be found on the page https://sites.google.com/site/fangyifanleyzhang/research.
+He obtained his B.Eng. degree in Automation from East China Jiaotong University in 2010, followed with three years' work experience on R&D of locomotive control algorithms and electrical systems in the CRRC Zhuzhou Institute from 2010 to 2013. In 2014, he stayed for one year at the Hong Kong University of Science and Technology, as a research assistant, doing research on VLC-based indoor localization and 2D-laser based 3D sensing. Details regarding his research prior his Ph.D. can be found on the page https://sites.google.com/site/fangyifanleyzhang/research.
