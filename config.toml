@@ -12,7 +12,7 @@ title = "Fangyi Zhang (张方毅)"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Fangyi Zhang"
+copyright = "&copy; 2019 Fangyi Zhang"
 
 theme = "academic"
 enableEmoji = true
@@ -61,12 +61,15 @@ enableGitInfo = true
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Australian Centre for Robotic Vision (ACRV)", url = "https://www.roboticvision.org/" }, { name = "Queensland University of Technology (QUT)", url = "https://www.qut.edu.au/" } ]
+  # organizations = [ { name = "Australian Centre for Robotic Vision (ACRV)", url = "https://www.roboticvision.org/" }, { name = "Queensland University of Technology (QUT)", url = "https://www.qut.edu.au/" } ]
+  organizations = [ { name = "Alibaba DAMO Academy", url = "https://damo.alibaba.com/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  #avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "fangyi.zhang@roboticvision.org"
-  address = "QUT Gardens Point Campus, S Block 1130-21, 2 George Street, Brisbane, QLD 4000, Australia"
+  #address = "QUT Gardens Point Campus, S Block 1130-21, 2 George Street, Brisbane, QLD 4000, Australia"
+  address = "No. 969, Wenyi West Road, Yuhang District, Hangzhou, China"
   office_hours = ""
   phone = ""
   skype = ""

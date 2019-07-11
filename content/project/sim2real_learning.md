@@ -29,7 +29,7 @@ caption = ""
 
 +++
 
-This is my Ph.D. project in the [Australian Centre for Robotic Vision](https://www.roboticvision.org/) at [QUT](https://wiki.qut.edu.au/display/cyphy/Robotics@QUT), with supervisions from [Prof. Peter Corke](https://wiki.qut.edu.au/display/cyphy/Peter+Corke), [Dr Jürgen Leitner](http://juxi.net/), [Prof. Michael Milford](https://wiki.qut.edu.au/display/cyphy/Michael+Milford) and [Dr Ben Upcroft](https://www.roboticvision.org/rv_person/ben-upcroft/).
+This is my Ph.D. project in the [Australian Centre for Robotic Vision](https://www.roboticvision.org/) at [QUT](https://wiki.qut.edu.au/display/cyphy/Robotics@QUT), with supervisions from [Prof. Peter Corke](https://wiki.qut.edu.au/display/cyphy/Peter+Corke), [Dr. Jürgen Leitner](http://juxi.net/), [Prof. Michael Milford](https://wiki.qut.edu.au/display/cyphy/Michael+Milford) and [Dr. Ben Upcroft](https://www.roboticvision.org/rv_person/ben-upcroft/).
 
 ### **Learning Planar Reaching in Simulation**
 {{< youtube 6cz-mcM4Qkc >}}

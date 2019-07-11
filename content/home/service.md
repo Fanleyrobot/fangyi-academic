@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = 2018-06-27T00:00:00
+date = 2019-07-11T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Academic Service"
@@ -15,12 +15,13 @@ weight = 50
 
 +++
 
-- Membership:  IEEE Robotics and Automation Society (Student Member)
+- Membership:  IEEE Robotics and Automation Society
 - Journal Reviewer:
   - RA-L
   - T-ASE
   - TNNLS
+  - ISJ
 - Conference Reviewer:
-  - ICRA: 2017, 2018
-  - IROS: 2017, 2018
+  - ICRA: 2017, 2018, 2019
+  - IROS: 2017, 2018, 2019
   - ICIA: 2016, 2018
