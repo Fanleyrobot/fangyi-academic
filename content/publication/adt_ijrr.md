@@ -1,6 +1,6 @@
 +++
 title = "Adversarial Discriminative Sim-to-real Transfer of Visuo-motor Policies"
-date = 2019-07-10T00:00:00
+date = 2019-08-19T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Fangyi Zhang**", "Jürgen Leitner", "Zongyuan Ge", "Michael Milford", "Peter Corke"]
@@ -17,11 +17,11 @@ authors = ["**Fangyi Zhang**", "Jürgen Leitner", "Zongyuan Ge", "Michael Milfor
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The International Journal of Robotics Research (IJRR)* (**TBA**)."
-publication_short = "In *IJRR* (**TBA**)"
+publication = "In *The International Journal of Robotics Research (IJRR)*."
+publication_short = "In *IJRR*"
 
 # Abstract and optional shortened version.
-abstract = "Various approaches have been proposed to learn visuo-motor policies for real-world robotic applications. One solution is first learning in simulation then transferring to the real world. In the transfer, most existing approaches need real-world images with labels. However, the labelling process is often expensive or even impractical in many robotic applications. In this paper, we introduce an adversarial discriminative sim-to-real transfer approach to reduce the amount of labelled real data required. The effectiveness of the approach is demonstrated with modular networks in a table-top object reaching task where a 7 DoF arm is controlled in velocity mode to reach a blue cuboid in clutter through visual observations from a monocular RGB camera. The adversarial transfer approach reduced the labelled real data requirement by 50%. Policies can be transferred to real environments with only 93 labelled and 186 unlabelled real images. The transferred visuo-motor policies are robust to novel (not seen in training) objects in clutter and even a moving target, achieving a 97.8% success rate and 1.8 cm control accuracy. Datasets and code are openly available."
+abstract = "Various approaches have been proposed to learn visuo-motor policies for real-world robotic applications. One solution is first learning in simulation then transferring to the real world. In the transfer, most existing approaches need real-world images with labels. However, the labeling process is often expensive or even impractical in many robotic applications. In this article, we introduce an adversarial discriminative sim-to-real transfer approach to reduce the amount of labeled real data required. The effectiveness of the approach is demonstrated with modular networks in a table-top object-reaching task where a seven-degree-of-freedom arm is controlled in velocity mode to reach a blue cuboid in clutter through visual observations from a monocular RGB camera. The adversarial transfer approach reduced the labeled real data requirement by 50%. Policies can be transferred to real environments with only 93 labeled and 186 unlabeled real images. The transferred visuo-motor policies are robust to novel (not seen in training) objects in clutter and even a moving target, achieving a 97.8% success rate and 1.8 cm control accuracy. Datasets and code are openly available."
 
 # Featured image thumbnail (optional)
 image_preview = "publications/adt_ijrr.png"
@@ -36,7 +36,7 @@ selected = true
 projects = ["sim2real_learning"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://doi.org/10.1177%2F0278364919870227"
 url_preprint = "https://arxiv.org/abs/1709.05746.pdf"
 url_code = "https://github.com/Fanleyrobot/ADT"
 url_dataset = ""
