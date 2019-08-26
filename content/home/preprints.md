@@ -6,7 +6,7 @@ widget = "publications_selected"
 active = true
 date = 2018-06-27T00:00:00
 
-title = "Preprints"
+title = "Recent Publication"
 subtitle = ""
 
 # Order that this section will appear in.
