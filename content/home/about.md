@@ -42,4 +42,4 @@ Dr. Fangyi Zhang is currently a research fellow in the [QUT Centre for Robotics]
 
 Prior to his PhD, Fangyi obtained his B.Eng. degree in Automation from the East China Jiaotong University in 2010, followed with three years' work experience on R&D of locomotive control algorithms and electrical systems in the [CRRC Zhuzhou Institute](https://www.crrcgc.cc/zzsen/g2807.aspx) from 2010 to 2013. In 2014, he stayed for one year at the Hong Kong University of Science and Technology, as a research assistant supervised by [Prof. Ming Liu](https://ram-lab.com/people/#dr-ming-liu-director), doing research on VLC-based indoor localization and 2D-laser based 3D sensing.
 
-# Details regarding his research prior his Ph.D. can be found on the page https://sites.google.com/site/fangyifanleyzhang/research.
+<!-- Details regarding his research prior his Ph.D. can be found on the page https://sites.google.com/site/fangyifanleyzhang/research. -->
