@@ -12,7 +12,7 @@ title = "Fangyi Zhang (张方毅)"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 Fangyi Zhang"
+copyright = "&copy; 2021 Fangyi Zhang"
 
 theme = "academic"
 enableEmoji = true
@@ -62,7 +62,8 @@ enableGitInfo = true
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   # organizations = [ { name = "Australian Centre for Robotic Vision (ACRV)", url = "https://www.roboticvision.org/" }, { name = "Queensland University of Technology (QUT)", url = "https://www.qut.edu.au/" } ]
-  organizations = [ { name = "Alibaba DAMO Academy", url = "https://damo.alibaba.com/" }]
+  # organizations = [ { name = "Alibaba DAMO Academy", url = "https://damo.alibaba.com/" }]
+  organizations = [ { name = "QUT Centre for Robotics", url = "https://research.qut.edu.au/qcr/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   #avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

@@ -2,7 +2,7 @@
 # Tag Cloud widget.
 widget = "tag_cloud"
 active = true
-date = 2018-06-27T00:00:00
+date = 2021-12-10T00:00:00
 
 title = "Tags"
 subtitle = ""

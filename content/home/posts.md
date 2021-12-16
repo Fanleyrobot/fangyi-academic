@@ -3,7 +3,7 @@
 # This widget displays recent posts from `content/post/`.
 widget = "posts"
 active = false
-date = 2018-06-27T00:00:00
+date = 2021-12-10T00:00:00
 
 title = "Recent Posts"
 subtitle = ""
